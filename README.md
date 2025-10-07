@@ -13,5 +13,5 @@ package manager commands, including the `@Development Tools` group on Red Hat de
 Run a syntax check locally with:
 
 ```bash
-ansible-playbook --syntax-check common-dev-tools.yml
+ansible-playbook --syntax-check playbooks/common-dev-tools.yml
 ```
